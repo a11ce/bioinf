@@ -1,0 +1,1 @@
+Minden[SPACE]emberi[SPACE]lény[SPACE]szabadon[SPACE]születik[SPACE]és[SPACE]egyenlő[SPACE]méltósága[SPACE]és[SPACE]joga[SPACE]van.[SPACE]Az[SPACE]emberek,[SPACE]ésszel[SPACE]és[SPACE]lelkiismerettel[SPACE]bírván,[SPACE]egymással[SPACE]szemben[SPACE]testvéri[SPACE]szellemben[SPACE]kell[SPACE]hogy[SPACE]viseltessenek.[SPACE]
