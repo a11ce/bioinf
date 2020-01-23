@@ -3,16 +3,16 @@
 This dir shows the following example pipeline:
 ```
 rawText.ls
-    +
     |
+    +
     |
     v
 procText.ls      hungarian.tl
-    +            +
-    |            |
-    +------->+<--+
-             v
-        output.ls
+    |               |
+    |               |
+    -------+---------
+           v  
+       output.ls
  ```
 To run, just type `make` or `make output.ls`.
 
