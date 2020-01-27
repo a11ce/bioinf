@@ -1,4 +1,4 @@
 - `git pull` gets changes from the repo
 - `git add <file>` adds files to what you're about to commit
 - `git commit -m "commit message"` commits your changes, please write a good message
-- `git push` to send your changes to the repo
+- `git push -u origin master` to send your changes to the repo
