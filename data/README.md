@@ -1,0 +1,1 @@
+Run `make` to download the data files from <https://github.com/spholmes/F1000_workflow/tree/master/data>. They are automatically ignored by git, do not track them.
