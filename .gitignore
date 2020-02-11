@@ -3,3 +3,5 @@ metabolites.csv
 microbe.rda
 ps.rds
 rdp_train_set_14.fa.gz
+output.ls
+procText.ls
