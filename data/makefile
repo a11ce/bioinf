@@ -14,4 +14,5 @@ ps.rds:
 	wget "https://raw.githubusercontent.com/spholmes/F1000_workflow/master/data/ps.rds"
 	
 rdp_train_set_14.fa.gz:
-	wget "https://raw.githubusercontent.com/spholmes/F1000_workflow/master/data/rdp_train_set_14.fa.gz"	
+	wget "https://raw.githubusercontent.com/spholmes/F1000_workflow/master/data/rdp_train_set_14.fa.gz"
+	gunzip -c rdp_train_set_14.fa.gz > rdp_train_set_14.fa
